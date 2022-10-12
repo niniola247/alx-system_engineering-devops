@@ -1,1 +1,2 @@
-iacta
+#!/bin/bash
+echo iacta /head -3 iacta/
